@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Logion",
+    "slug": "logion",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.logion.app",
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.logion.app"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "cde56ab9-5581-402a-aebe-41ac87f3fe71"
+      }
+    }
+  }
+}
